@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Rubik+Distressed&family=Rubik+Maze&family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff&family=Neucha&family=Rubik+Distressed&family=Rubik+Maze&family=Silkscreen&display=swap');
+
+@font-face {
+  font-family: fml-fontes;
+  src: url(../fonts/RubikMaze-Regular.ttf);
+}
+
+@font-face {
+  font-family:'fml' ;
+  src: url(../fonts/Neucha-Regular.ttf);
+}
+
+h5{
+  color: black;
+}
+h1{
+  color: green;
+  font-family: 'Rubik Maze', cursive;
+}
+
+h2{
+  color: darkolivegreen;
+  font-family: 'Neucha', cursive
+}
+
